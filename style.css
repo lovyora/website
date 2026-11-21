@@ -1,14 +1,20 @@
 body {
-    font-family: Arial,  sans-serif; /* keluarga font */
-    font-size: 11px; /* Ukuran font utama pada tag <p></p> */
-    background-color: #fbbaba; /* Warna latar belakang laman web */
+    font-family: Inter,  sans-serif; /* keluarga font */
+    font-size: 16px; /* Ukuran font utama pada tag <p></p> */
+    background-color: #FFFFFF; /* Warna latar belakang laman web */
     color: #333333; /* Warna teks */ 
 }
 h1 {
-    color: #eb2210; /* Warna tajuk (header)*/
+    color: #5988FF; /* Warna tajuk (header)*/
+    font-size: 26px; /* Ukuran font tajuk (header) */
+    font-family: Inter, sans-serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+h2 {
+    color: #FD98FB; /* Warna tajuk (header)*/
     font-size: 24px; /* Ukuran font tajuk (header) */
-    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+    font-family: Inter, sans-serif; /* Keluarga font yang digunakan di tajuk (header) */
 }
 img {
     width: 400px;
+    border: 3px solid #D6FF6B;
 }
